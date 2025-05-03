@@ -1,0 +1,7 @@
+Flask[async]
+ 
+pyngrok
+google-generativeai
+python-dotenv
+requests
+aiohttp
